@@ -1,10 +1,10 @@
 {
-	"name": "Kux-OrbitalIonCannon",
+	"name": "dfb-OrbitalIonCannon",
 	"version": "2.4.2",
 	"factorio_version": "1.1",
 	"title": "Orbital Ion Cannon (Interstellar version)",
 	"author": "ANTIlogix",
-	"homepage": "https://github.com/dfb159/Kux-OrbitalIonCannon",
+	"homepage": "https://github.com/dfb159/dfb-OrbitalIonCannon",
 	"dependencies": [
 		"base",
 		"Kux-CoreLib >= 2.4.1",

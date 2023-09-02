@@ -2,6 +2,7 @@
 A Factorio Mod
 
 Based on [Supercheese's Orbital Ion Cannon](https://mods.factorio.com/mod/Orbital%20Ion%20Cannon)
+Forked from https://github.com/kuxynator/Kux-OrbitalIonCannon.
 
 Feel free to add you ideas and contribute to this repository.
 
