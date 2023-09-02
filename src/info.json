@@ -19,7 +19,8 @@
 		"? Krastorio2",
 		"? 5dim_compatibility",
 
-		"! Orbital Ion Cannon"
+		"! Orbital Ion Cannon",
+		"! Kux-OrbitalIonCannon"
 	],
 	"description": "When you need to call down the thunder to deal with those pesky biters, launch a rocket with an ion cannon into orbit and show the bugs who's boss. Now with a setting to change the range of Ion Cannons."
 }
