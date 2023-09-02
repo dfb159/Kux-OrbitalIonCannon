@@ -4,3 +4,4 @@ Date: 2023-09-02
   Info:
     - Initial version after fork
     - Added Kux-OrbitalIonCannon to conflict
+    - Updated all local mod paths
