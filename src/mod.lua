@@ -1,6 +1,6 @@
 local mod = {}
 
-mod.name = "Kux-OrbitalIonCannon"
+mod.name = "dfb-OrbitalIonCannon"
 mod.path="__"..mod.name.."__/"
 mod.prefix=mod.name.."-"
 

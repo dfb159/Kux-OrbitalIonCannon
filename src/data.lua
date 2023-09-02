@@ -1,4 +1,4 @@
-ModPath="__Kux-OrbitalIonCannon__/" -- Orbital Ion Cannon
+ModPath="__dfb-OrbitalIonCannon__/" -- Orbital Ion Cannon
 
 require "prototypes.ion-cannon-targeter"
 require "prototypes.orbital-ion-cannon"
